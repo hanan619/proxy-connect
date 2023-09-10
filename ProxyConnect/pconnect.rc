@@ -1,0 +1,4 @@
+#include <Windows.h>
+
+IDI_ICON1               ICON    "pconnect.ico"
+ID_ICON    ICON    DISCARDABLE    "pconnect.ico"
