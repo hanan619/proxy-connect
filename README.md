@@ -1,1 +1,2 @@
-# proxy-connect
+# Windows Network Proxy Swapper
+Windows Network Proxy Swapper is a utility designed to simplify the process of changing network proxy settings on Windows machines. Leveraging the ms-settings:network-proxy functionality, this tool reads a list of proxy servers from a file and periodically swaps and activates them. It provides an easy and automated way to manage network proxy configurations on Windows systems.
